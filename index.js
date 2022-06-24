@@ -1,1 +1,1 @@
-console.log("Name: John Omotola Omotayo\nHeight: 5ft6\nCountry: Nigeria")
+alert(`Name: John Omotola Omotayo\nHeight: 5ft8\nCountry: Nigeria`);
